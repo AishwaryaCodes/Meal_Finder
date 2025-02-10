@@ -1,6 +1,6 @@
 <div align="center" style="position: relative; width: 100%; max-width: 900px; margin: auto;">
   <!-- Full-width background image -->
-  <img src="Meal Finder.jpg" alt="Meal Finder" style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); filter: brightness(0.7);">
+  <img src="food img.avif" alt="Meal Finder" style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3); filter: brightness(0.7);">
 
   <!-- Overlay text -->
   <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: #fff; font-family: Arial, sans-serif;">
@@ -76,7 +76,7 @@ The project is organized as follows:
 The app's main page, featuring the title, search bar for meal queries, and initial search results.
 
 <div align="center">
-  <img src="meal-finder-homepage.jpg" alt="Homepage Screenshot" style="max-width: 90%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+  <img src="https://github.com/user-attachments/assets/d3c49751-fbc6-4fc3-9907-d03d6ee12ef7" alt="Homepage Screenshot" style="max-width: 90%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">  
 </div>
 
 ---
@@ -86,7 +86,7 @@ The app's main page, featuring the title, search bar for meal queries, and initi
 Displays a list of meal names and images based on the search query.
 
 <div align="center">
-  <img src="meal-finder-search-results.jpg" alt="Search Results Screenshot" style="max-width: 90%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+  <img src="https://github.com/user-attachments/assets/822cf10a-b4e9-4b29-b3f0-1f1c517ef7d8" alt="Search Results Screenshot" style="max-width: 90%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
 </div>
 
 ---
@@ -96,9 +96,12 @@ Displays a list of meal names and images based on the search query.
 Shows detailed information about the selected meal, including ingredients and instructions.
 
 <div align="center">
-  <img src="meal-finder-recipe-details.jpg" alt="Recipe Details Screenshot" style="max-width: 90%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+  <img src="https://github.com/user-attachments/assets/13e81521-b083-43aa-b509-cf169c50a11c" alt="Recipe Details Screenshot" style="max-width: 90%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
 </div>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4e4310b0-b0a1-4091-8454-103e0a23b597" alt="Recipe Details Screenshot" style="max-width: 90%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);">
+</div>
 
 --- 
 
